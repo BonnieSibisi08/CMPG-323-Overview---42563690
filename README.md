@@ -12,6 +12,10 @@ Multiple repositories will be created, each project will have its own repository
 The diagram below shows how all repositories will be linked to the Kanban Guide project. This is how I will my work will be structrured through out the semester.  
 ![projStruct drawio](https://github.com/user-attachments/assets/a360aba5-27bd-4c83-916c-d8f22320e70f)    
 
+### Documentation
+The link to the documentation I have created:
+
+
 ### Branching Strategy
 As these are individual projects, the branching strategy I have decided to use is the Github Flow. Although it does have its disadvantages but there are reasons for choosing this strategy.  
 - This strategy allows quick recovery of issues, if there is an error with a release you can quickly rollback to the previous one.  
@@ -33,3 +37,18 @@ Gitignore files are crucial for a few reasons:
 ### Storage of Credentials and Sensitive Information
 The .gitignore files is initially intended to allow developers to filter out certain files that should not be committed, and it can be used (among other things) to prevent files that with disclose secrets from being leaked. I will make use of the gitignore files to store sensitive information. I will also make use of Github Secrets for the store login credentials. Sensitive information will also not be hardcoded in my source code, rather I will make use of environmental variables effectively.
 
+### Burndown Chart
+Below is a burndown chart I have created using excel. I will update the chart regularly as I progress throughout the semester. This will help me to keep track of my progress, as I will be able to compare the planned tasks with tasks in progress or completed.  
+
+![Burndown chart](https://github.com/user-attachments/assets/386c6810-e283-48a8-9a22-c732629c175d)  
+
+### References
+Below is a list of references which I used in research of the branching strategies, .gitignore files and other important information.
+
+- https://youtu.be/gW6dFpTMk8s?si=TD3x_kq714NBE-_m
+- https://www.abtasty.com/blog/git-branching-strategies/
+- Vincent, W. S. (2022). Django for Professionals. Still River Press.
+- Meli, M., McNiece, M. R., & Reaves, B. (2019, February). How bad can it git? characterizing secret leakage in public github repositories. In NDSS.
+- https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+
+-
