@@ -21,14 +21,14 @@ As these are individual projects, the branching strategy I have decided to use i
 The diagram below depicts the branching strategy to be used throughout the project.  
 ![branchStrategyFlow drawio (1)](https://github.com/user-attachments/assets/83eabb72-6746-4d25-b961-19b8c57b300f)   
 
-### Importance of Gitignore's
+### The Use of Gitignore's
+Each project will contain its own .gitignore file. I will be using them throughout the semester as I am working on each project, simply because the are very important.  
 Gitignore files are crucial for a few reasons:
 
-1. **Keeps Unnecessary Files Out**: They stop unnecessary files, like temporary files and local settings, from being tracked by Git. This keeps the repository clean and focused on the important source code and files.
+1. **Keeps Unnecessary Files Out**: They stop unnecessary files, like temporary files and local settings, from being tracked by Git. This will help keep my repository clean and focused on the important source code and files.
 2. **Manages Repository Size**: By leaving out large and unnecessary files, the .gitignore file helps keep the repository size manageable, which boosts Git's performance and efficiency.
 3. **Enhances Security**: Sensitive information like passwords, API keys, and personal data can be kept out of the repository, preventing accidental leaks of confidential info.
-4. **Enhances Teamwork**: In group projects, gitignore files ensure only the necessary files are shared among team members, preventing any confusion.
-5. **Simplifies Workflow**: When developing, you can work locally without worrying about accidentally committing unwanted files, allowing you to focus on coding and other important tasks.  
+4. **Simplifies Workflow**: When developing, I can work locally without worrying about accidentally committing unwanted files, which allows me to focus on coding and other important tasks.  
 
 ### Storage of Credentials and Sensitive Information
 The .gitignore files is initially intended to allow developers to filter out certain files that should not be committed, and it can be used (among other things) to prevent files that with disclose secrets from being leaked. I will make use of the gitignore files to store sensitive information. I will also make use of Github Secrets for the store login credentials. Sensitive information will also not be hardcoded in my source code, rather I will make use of environmental variables effectively.
