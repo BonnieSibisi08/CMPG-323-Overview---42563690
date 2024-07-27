@@ -49,6 +49,4 @@ Below is a list of references which I used in research of the branching strategi
 - https://www.abtasty.com/blog/git-branching-strategies/
 - Vincent, W. S. (2022). Django for Professionals. Still River Press.
 - Meli, M., McNiece, M. R., & Reaves, B. (2019, February). How bad can it git? characterizing secret leakage in public github repositories. In NDSS.
-- https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
-
--
+- https://www.visual-paradigm.com/scrum/scrum-burndown-chart/  
