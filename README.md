@@ -13,8 +13,8 @@ The diagram below shows how all repositories will be linked to the Kanban Guide 
 ![projStruct drawio](https://github.com/user-attachments/assets/a360aba5-27bd-4c83-916c-d8f22320e70f)    
 
 ### Documentation
-The link to the documentation I have created:
-
+The link to the documentation I have created:  
+[Lean document](https://docs.google.com/document/d/1UF9rpYQHOIypGd4BshBgNmWwu8SEWhkD/edit?usp=sharing&ouid=104985369547771360207&rtpof=true&sd=true)
 
 ### Branching Strategy
 As these are individual projects, the branching strategy I have decided to use is the Github Flow. Although it does have its disadvantages but there are reasons for choosing this strategy.  
