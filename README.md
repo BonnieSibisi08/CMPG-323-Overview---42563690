@@ -21,3 +21,11 @@ As these are individual projects, the branching strategy I have decided to use i
 The diagram below depicts the branching strategy to be used throughout the project.  
 ![branchStrategyFlow drawio (1)](https://github.com/user-attachments/assets/83eabb72-6746-4d25-b961-19b8c57b300f)   
 
+### Importance of Gitignore's
+Gitignore files are crucial for a few reasons:
+
+1. **Keeps Unnecessary Files Out**: They stop unnecessary files, like temporary files and local settings, from being tracked by Git. This keeps the repository clean and focused on the important source code and files.
+2. **Manages Repository Size**: By leaving out large and unnecessary files, the .gitignore file helps keep the repository size manageable, which boosts Git's performance and efficiency.
+3. **Enhances Security**: Sensitive information like passwords, API keys, and personal data can be kept out of the repository, preventing accidental leaks of confidential info.
+4. **Enhances Teamwork**: In group projects, gitignore files ensure only the necessary files are shared among team members, preventing any confusion.
+5. **Simplifies Workflow**: When developing, you can work locally without worrying about accidentally committing unwanted files, allowing you to focus on coding and other important tasks.
