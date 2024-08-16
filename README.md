@@ -40,7 +40,7 @@ The .gitignore files is initially intended to allow developers to filter out cer
 ### Burndown Chart
 Below is a burndown chart I have created using excel. I will update the chart regularly as I progress throughout the semester. This will help me to keep track of my progress, as I will be able to compare the planned tasks with tasks in progress or completed.  
 
-![Burndown chart](https://github.com/user-attachments/assets/386c6810-e283-48a8-9a22-c732629c175d)  
+![Screenshot 2024-08-16 124329](https://github.com/user-attachments/assets/9562271b-94e4-4a9a-9ff6-b395b678f2a9)
 
 ### References
 Below is a list of references which I used in research of the branching strategies, .gitignore files and other important information.
